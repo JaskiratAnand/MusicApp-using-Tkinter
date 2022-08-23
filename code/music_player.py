@@ -1,14 +1,3 @@
-'''
-Python Trainig Project
-
-made by:
-    Jaskirat Singh Anand (2002463, BTech CSE 5B2)
-    Janmeet Singh (2102463, BTech CSE 5B2)
-    Jasnoor Singh (2102465, BTech CSE 5B2)
-
-'''
-
-
 from tkinter import *
 from PIL import ImageTk, Image
 import os
